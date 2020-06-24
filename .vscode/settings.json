@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/markmorrison/anaconda3/envs/stat-rethink/bin/python3.7"
+    "python.pythonPath": "/Users/markmorrison/anaconda3/envs/stat-rethink2-pymc3/bin/python3.7",
+    "python.venvPath": "~/anaconda3/envs"
 }
