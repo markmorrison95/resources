@@ -1,4 +1,4 @@
-name: stat-rethink-pymc3
+name: stat-rethink
 channels:
 - defaults
 dependencies:
